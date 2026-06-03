@@ -71,7 +71,7 @@ I'm an **AI/NLP Engineer** building intelligent systems that solve real business
 
 <div align="center">
 
-![Muneer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muneer-ahmad10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muneer-ahmad10&theme=tokyo-night&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneer-ahmad10&layout=compact&theme=tokyonight&hide_border=true)
 
