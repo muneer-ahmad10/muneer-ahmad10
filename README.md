@@ -73,7 +73,6 @@ I'm an **AI/NLP Engineer** building intelligent systems that solve real business
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muneer-ahmad10&theme=tokyo-night&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneer-ahmad10&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
