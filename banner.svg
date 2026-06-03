@@ -1,0 +1,69 @@
+<svg width="1584" height="396" viewBox="0 0 1584 396" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f2027"/>
+      <stop offset="50%" style="stop-color:#203a43"/>
+      <stop offset="100%" style="stop-color:#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a0c4ff;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#a0c4ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#a0c4ff;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1584" height="396" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <g stroke="#ffffff" stroke-opacity="0.04" stroke-width="1">
+    <line x1="0" y1="99" x2="1584" y2="99"/>
+    <line x1="0" y1="198" x2="1584" y2="198"/>
+    <line x1="0" y1="297" x2="1584" y2="297"/>
+    <line x1="264" y1="0" x2="264" y2="396"/>
+    <line x1="528" y1="0" x2="528" y2="396"/>
+    <line x1="792" y1="0" x2="792" y2="396"/>
+    <line x1="1056" y1="0" x2="1056" y2="396"/>
+    <line x1="1320" y1="0" x2="1320" y2="396"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="1400" cy="80" r="180" fill="none" stroke="#a0c4ff" stroke-opacity="0.07" stroke-width="1"/>
+  <circle cx="1400" cy="80" r="120" fill="none" stroke="#a0c4ff" stroke-opacity="0.07" stroke-width="1"/>
+  <circle cx="1400" cy="80" r="60" fill="none" stroke="#a0c4ff" stroke-opacity="0.1" stroke-width="1"/>
+  <circle cx="120" cy="320" r="140" fill="none" stroke="#a0c4ff" stroke-opacity="0.05" stroke-width="1"/>
+
+  <!-- Accent line -->
+  <rect x="0" y="0" width="6" height="396" fill="#a0c4ff" opacity="0.6"/>
+
+  <!-- Name -->
+  <text x="80" y="160" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="-1">Muneer Ahmad Dar</text>
+
+  <!-- Thin accent line under name -->
+  <rect x="80" y="178" width="520" height="2" fill="url(#accent)" opacity="0.5"/>
+
+  <!-- Title -->
+  <text x="82" y="228" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="400" fill="#a0c4ff" letter-spacing="1">AI &amp; NLP Engineer  ·  Machine Learning  ·  Data Science</text>
+
+  <!-- Tags row -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#ffffff">
+    <!-- Tag 1 -->
+    <rect x="82" y="258" width="160" height="32" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2" stroke-width="0.5"/>
+    <text x="162" y="279" text-anchor="middle" fill="#a0c4ff">Sentence Transformers</text>
+    <!-- Tag 2 -->
+    <rect x="254" y="258" width="110" height="32" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2" stroke-width="0.5"/>
+    <text x="309" y="279" text-anchor="middle" fill="#a0c4ff">Semantic Search</text>
+    <!-- Tag 3 -->
+    <rect x="376" y="258" width="76" height="32" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2" stroke-width="0.5"/>
+    <text x="414" y="279" text-anchor="middle" fill="#a0c4ff">Streamlit</text>
+    <!-- Tag 4 -->
+    <rect x="464" y="258" width="56" height="32" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2" stroke-width="0.5"/>
+    <text x="492" y="279" text-anchor="middle" fill="#a0c4ff">spaCy</text>
+    <!-- Tag 5 -->
+    <rect x="532" y="258" width="60" height="32" rx="16" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2" stroke-width="0.5"/>
+    <text x="562" y="279" text-anchor="middle" fill="#a0c4ff">Python</text>
+  </g>
+
+  <!-- Bottom info -->
+  <text x="82" y="348" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#ffffff" fill-opacity="0.5" letter-spacing="0.5">IIT Guwahati AIML Certification  ·  Srinagar, India  ·  github.com/muneer-ahmad10</text>
+</svg>
