@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Muneer%20Ahmad%20Dar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20NLP%20Engineer%20%7C%20Machine%20Learning%20%7C%20IIT%20Guwahati%20AIML&descAlignY=60&descSize=16&descColor=a0c4ff)
+![Banner](https://raw.githubusercontent.com/muneer-ahmad10/muneer-ahmad10/main/banner.svg)
 
 </div>
 
