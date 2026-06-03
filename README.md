@@ -63,7 +63,7 @@ I'm an **AI/NLP Engineer** building intelligent systems that solve real business
 | [🎯 Customer Segmentation](https://github.com/muneer-ahmad10/Customer-Segmentation) | K-Means clustering with Elbow Method & Silhouette Score to identify high-value customer segments. | Python · Scikit-learn · Seaborn |
 | [🎬 Recommendation System](https://github.com/muneer-ahmad10/Recommendation-System) | Product/movie recommender based on user past behavior using collaborative filtering. | Python · Pandas · Jupyter |
 | [🏠 House Price Prediction](https://github.com/muneer-ahmad10/House-price-prediction) | Regression models (Linear, Ridge, Lasso) with feature engineering and model evaluation. | Python · Scikit-learn |
-| [📊 Sales Analytics Dashboard](https://github.com/muneer-ahmad10/Sales-Analytics) | Interactive Tableau dashboard on 9,800+ retail records with KPIs, filters & trend analysis. | Python · SQL · Tableau |
+| [🧠 NLP Learning Journey](https://github.com/muneer-ahmad10/Natural-Language-processing) | Day-by-day NLP study — preprocessing → RNN → LSTM → Attention → Transformers → Mini GPT. 50+ commits. | Python · PyTorch · HuggingFace |
 
 ---
 
