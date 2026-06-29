@@ -59,6 +59,7 @@ I'm an **AI/NLP Engineer** building intelligent systems that solve real business
 | Project | Description | Stack |
 |---|---|---|
 | [🔍 AI Resume Analyzer](https://github.com/muneer-ahmad10/Resume-Analyzer) | Semantic resume-job matcher using transformer embeddings & cosine similarity. Goes beyond keyword matching to understand context. | Python · spaCy · HuggingFace · Streamlit |
+| [📚PDF RAG Chatbot](https://github.com/muneer-ahmad10/Chatbot) |A Retrieval-Augmented Generation (RAG) chatbot that lets you upload any PDF and ask questions about it in natural language — powered by semantic search and a local open-source LLM. | Streamlit · PyPDF · Sentence-Transformers (all-MiniLM-L6-v2) · FAISS (IndexFlatL2) · HuggingFace · Streamlit + ngrok tunnel |
 | [📉 Customer Churn Prediction](https://github.com/muneer-ahmad10/Customer-Churn-Prediction) | Classification models (Logistic Regression, Random Forest, Gradient Boosting). Improved recall from 0.49 → 0.60 via optimization. | Python · Scikit-learn · Pandas |
 | [🎯 Customer Segmentation](https://github.com/muneer-ahmad10/Customer-Segmentation) | K-Means clustering with Elbow Method & Silhouette Score to identify high-value customer segments. | Python · Scikit-learn · Seaborn |
 | [🎬 Recommendation System](https://github.com/muneer-ahmad10/Recommendation-System) | Product/movie recommender based on user past behavior using collaborative filtering. | Python · Pandas · Jupyter |
