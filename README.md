@@ -16,7 +16,7 @@ I'm an **AI/NLP Engineer** building intelligent systems that solve real business
 - 🎓 **BCA** — Islamia College of Science & Commerce, Srinagar (2025)
 - 🔭 Currently building: **Semantic search systems, NLP pipelines, RAG applications**
 - 🌱 Currently learning: **Deep Learning · LLMs · RAG · Generative AI**
-- 📍 Srinagar, India · Open to remote roles
+- 📍 Srinagar, India · Open To Work
 - 📫 Reach me: **abrard855@gmail.com**
 
 ---
