@@ -30,7 +30,7 @@ class MuneerAhmadDar:
     location  = "Srinagar, India"
     education = ["Advanced Certification in AI & ML — IIT Guwahati x Masai",
                  "BCA — Islamia College of Science & Commerce"]
-    strengths = ["NLP", "RAG & semantic search", "Transformers", "Applied ML"]
+    strengths = ["AI/ML","Machine Learning","NLP", "RAG & semantic search", "Transformers"]
     approach  = "Build it from scratch, measure it, then ship it"
     contact   = "abrard855@gmail.com"
 ```
